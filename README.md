@@ -1,4 +1,4 @@
-# 🕷️ Recluse: Surveillance Detection & System Behavior Intelligence Platform
+# 🕷️ Recluse Stealth: Surveillance Detection & System Behavior Intelligence Platform
 
 **Website:** [https://reclusesecurity.com](https://reclusesecurity.com)
 
